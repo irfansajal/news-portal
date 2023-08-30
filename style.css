@@ -1,0 +1,6 @@
+/* only apply on profile img */
+@media (max-width: 768px) {
+    .img1 {
+      display: none;
+    }
+}
